@@ -1,5 +1,7 @@
 @author Thanks for your dedication to our documentation. 
 
-After review we have determined [insert reason] and do not plan on updating the documentation.  
+After reviewing your issue, we have determined [insert reason] and do not plan on updating the documentation.  
 
-If you have another possible update to our documentation, please don’t hesitate to reach out again. Thank you! #please-close 
+Please don't hesitate to reach out again, if you have any other questions
+
+Once again, Thanks! #please-close 
